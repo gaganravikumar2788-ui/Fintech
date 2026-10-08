@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "username": "arjun.menon",
+      "password": "Arjun123"
+    },
+    {
+      "username": "neha.sharma",
+      "password": "Neha123"
+    },
+    {
+      "username": "rahul.verma",
+      "password": "Rahul123"
+    },
+    {
+      "username": "priya.nair",
+      "password": "Priya123"
+    },
+    {
+      "username": "aditya.reddy",
+      "password": "Aditya123"
+    },
+    {
+      "username": "kavya.iyer",
+      "password": "Kavya123"
+    },
+    {
+      "username": "rohan.patel",
+      "password": "Rohan123"
+    },
+    {
+      "username": "meera.joshi",
+      "password": "Meera123"
+    },
+    {
+      "username": "vikram.singh",
+      "password": "Vikram123"
+    },
+    {
+      "username": "ananya.kapoor",
+      "password": "Ananya123"
+    }
+  ]
+}
